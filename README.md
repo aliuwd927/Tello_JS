@@ -3,4 +3,5 @@ Using native javascript to control DJI Tello<br>
 This came from the help of YT videos, and StackOverFlow
 
 # TelloCLI
-My own tackle from using help ONLY from documentations.
+Commmand Tello, using CLI. <br>
+The only help I can use is documentations ONLY. ( A test to prove myself )
