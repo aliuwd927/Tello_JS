@@ -6,7 +6,7 @@ const readline = require('readline');
 const telloIp = '192.168.10.1';
 const telloPort = 8889;
 
-//Recieve Tello State
+//Recieve Tello State ( For Data Telemetry Stuff )
 const udpServer = '0.0.0.0';
 const udpPort = 8890;
 
