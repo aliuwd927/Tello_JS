@@ -18,6 +18,7 @@ const djiTello = dgram.createSocket("udp4");
 //--Event Emitters from Tello
 djiTello.on("message", (message, rinfo) => {
   console.log(`${message} from ${rinfo.address}:${rinfo.port}`);
+  console.log(message.toString());
 });
 
 djiTello.on("error", (err) => {
